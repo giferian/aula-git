@@ -6,3 +6,4 @@ Nesta aula vamos ver os principais conceitos de Git e GitHub e fazer exercícios
 
 1. Execute o comando `git init` na pasta do repositório
 2. Execute o comando `git status`
+3. Gisela, testando
